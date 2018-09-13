@@ -1,2 +1,2 @@
-# my_texts
+# The My Texts
 My thoughts in texts.
